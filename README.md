@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @SALV19 also known as Santi 
 - 👀 I’m interested in learning, and making new things
-- 🌱 I’m currently learning web-dev and SWE
-- 📫 How to reach me: santialducin@gmail.com
-- ⚡ Fun fact: Solo Leveling & The Name of the Wind >>> TOP
+- 🌱 4rth semester in Computer Science at TEC de monterrey
 
 - My Personal WebPage (in progress): https://santialducinv.vercel.app
 <!---
