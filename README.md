@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @SALV19 also known as Santi 
 - 👀 I’m interested in learning, and making new things
-- 🌱 5th semester in Computer Science at TEC de monterrey
+- 🌱 7th semester in Computer Science at TEC de monterrey
